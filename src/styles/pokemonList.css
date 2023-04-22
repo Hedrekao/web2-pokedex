@@ -1,0 +1,32 @@
+.pokemonList {
+  display: flex;
+  width: 100%;
+  margin: 0;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.control-button {
+  width: 150px;
+  height: 70px;
+  background-color: lightblue;
+  border-radius: 20px;
+  padding: 10px;
+  font-weight: bold;
+  border: none;
+  margin-inline: 5px;
+}
+
+.control-button:hover {
+  opacity: 0.7;
+}
+
+.button-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+  margin-top: 4rem;
+}
