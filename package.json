@@ -1,7 +1,7 @@
 {
   "name": "pokedex",
   "version": "0.1.0",
-  "homepage": "https://hedrekao.github.io/pokedex",
+  "homepage": "https://hedrekao.github.io/pokedex/",
   "private": true,
   "dependencies": {
     "@tanstack/react-query": "^4.29.3",
